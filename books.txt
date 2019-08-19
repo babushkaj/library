@@ -1,0 +1,16 @@
+Stephen /King /"It" /1986 /PAPER
+It's a book about strange things what happened in little quiet town with seven children.
+
+Stephen /King /"Carrie" /1974 /PAPER
+It's a book about a girl... Other children scoffed her and there'll be hell to pay.
+
+Stephen /King /"The Green Mile" /2012 /EBOOK
+It's a story about a man, who looked like a huge mountain but the same time was really kind.
+
+Stephen /King /"Rita Hayworth and Shawshank Redemption" /1982 /PAPER
+It's a book about a life of an innocent man in prison.
+
+Christian /Bauer /"Java Persistance with Hibernate" /2006 /PAPER
+The book will help you in work with JPA and Hibernate.
+
+
